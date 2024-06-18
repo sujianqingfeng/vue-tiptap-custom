@@ -1,0 +1,26 @@
+{
+	"name": "tiptap-custom-demo",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"@tiptap/pm": "^2.4.0",
+		"@tiptap/starter-kit": "^2.4.0",
+		"@tiptap/vue-3": "^2.4.0",
+		"vue": "^3.4.21"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-vue": "^5.0.4",
+		"sass": "^1.77.6",
+		"unocss": "^0.61.0",
+		"vite": "^5.2.0",
+        "eslint": "^8.54.0",
+            "@sujian/eslint-config": "^1.0.4"
+	}
+
+}
